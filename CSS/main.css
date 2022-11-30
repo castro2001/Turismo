@@ -141,7 +141,7 @@ p , a{
 }
 @media (orientation: landscape) {
    .Contenedor{ 
-        top: 0;
+       top:1rem;
     }   
 }
 
