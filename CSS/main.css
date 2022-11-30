@@ -139,11 +139,6 @@ p , a{
     position: fixed;  
     top: 0;
 }
-@media (orientation: landscape) {
-   .Contenedor{ 
-       top:1rem;
-    }   
-}
 
 
 /*------------*/
